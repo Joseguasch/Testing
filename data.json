@@ -1,0 +1,22 @@
+[
+  {
+    "proyecto": "Atlas",
+    "estado": "Activo",
+    "avance": 80
+  },
+  {
+    "proyecto": "Orion",
+    "estado": "Riesgo",
+    "avance": 45
+  },
+  {
+    "proyecto": "Nimbus",
+    "estado": "Activo",
+    "avance": 92
+  },
+  {
+    "proyecto": "Aurora",
+    "estado": "Activo",
+    "avance": 68
+  }
+]
