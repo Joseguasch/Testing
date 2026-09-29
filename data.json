@@ -2,21 +2,21 @@
   {
     "proyecto": "Atlas",
     "estado": "Activo",
-    "avance": 80
+    "avance": 82
   },
   {
     "proyecto": "Orion",
     "estado": "Riesgo",
-    "avance": 45
+    "avance": 48
   },
   {
     "proyecto": "Nimbus",
     "estado": "Activo",
-    "avance": 92
+    "avance": 93
   },
   {
     "proyecto": "Aurora",
     "estado": "Activo",
-    "avance": 165
+    "avance": 75
   }
 ]
